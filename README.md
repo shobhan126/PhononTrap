@@ -1,2 +1,3 @@
-# PhononTrap.jl
+# PhononTrap
+
 Exploring random music stuff for personal joy
